@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyApplication3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ar/arcore-android-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part2chapter2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part2chapter2lotto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/secretDiary" vcs="Git" />
+  </component>
+</project>
